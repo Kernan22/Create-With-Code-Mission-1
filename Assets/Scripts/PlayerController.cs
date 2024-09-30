@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
     public Camera mainCamera;
     public Camera hoodCamera;
     public KeyCode switchKey;
+    public string inputID;
 
     void Start()
     {
@@ -19,8 +20,8 @@ public class PlayerController : MonoBehaviour
     
     void Update()
     {
-        horizontalInput = Input.GetAxis("Horizontal");
-        forwardInput = Input.GetAxis("Vertical");
+        horizontalInput = Input.GetAxis("Horizontal" + inputID);
+        forwardInput = Input.GetAxis("Vertical" + inputID);
         // Moves the bus forward based on vertical input
         transform.Translate(Vector3.forward * Time.deltaTime * speed * forwardInput);
         // Rotates the bus based on horizontal input

@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2024-09-30T16:02:29.702+01:00
-  initializedAtString: 2024-09-30T15:50:09.109+01:00
+  lastUpdatedAtString: 2024-09-30T16:19:35.480+01:00
+  initializedAtString: 2024-09-30T16:05:21.564+01:00
   entries:
   - path: Assets\Scenes\Prototype 1.unity
     fullPath: C:\Users\Pkern\REPOS\Create-With-Code-Mission-1\Assets\Scenes\Prototype
@@ -68,12 +68,6 @@ MonoBehaviour:
   - path: Library\Bee\tundra.digestcache
     fullPath: C:\Users\Pkern\REPOS\Create-With-Code-Mission-1\Library\Bee\tundra.digestcache
     projectPath: Library\Bee\tundra.digestcache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\Bee\tundra.log.json
-    fullPath: C:\Users\Pkern\REPOS\Create-With-Code-Mission-1\Library\Bee\tundra.log.json
-    projectPath: Library\Bee\tundra.log.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -171,11 +165,23 @@ MonoBehaviour:
     fullPath: C:\Users\Pkern\REPOS\Create-With-Code-Mission-1\Logs\AssetImportWorker0.log
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\Pkern\REPOS\Create-With-Code-Mission-1\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Logs\AssetImportWorker1.log
     fullPath: C:\Users\Pkern\REPOS\Create-With-Code-Mission-1\Logs\AssetImportWorker1.log
     projectPath: Logs\AssetImportWorker1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Logs\AssetImportWorker1-prev.log
+    fullPath: C:\Users\Pkern\REPOS\Create-With-Code-Mission-1\Logs\AssetImportWorker1-prev.log
+    projectPath: Logs\AssetImportWorker1-prev.log
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -183,11 +189,29 @@ MonoBehaviour:
     fullPath: C:\Users\Pkern\REPOS\Create-With-Code-Mission-1\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\Pkern\REPOS\Create-With-Code-Mission-1\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\InputManager.asset
+    fullPath: C:\Users\Pkern\REPOS\Create-With-Code-Mission-1\ProjectSettings\InputManager.asset
+    projectPath: ProjectSettings\InputManager.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\Packages\com.unity.connect.share\Settings.json
+    fullPath: C:\Users\Pkern\REPOS\Create-With-Code-Mission-1\ProjectSettings\Packages\com.unity.connect.share\Settings.json
+    projectPath: ProjectSettings\Packages\com.unity.connect.share\Settings.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ProjectSettings\TimelineSettings.asset
+    fullPath: C:\Users\Pkern\REPOS\Create-With-Code-Mission-1\ProjectSettings\TimelineSettings.asset
+    projectPath: ProjectSettings\TimelineSettings.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -197,21 +221,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\FSTimeGet-28d82e3f856aa3645a7c26586aa064df
-    fullPath: C:\Users\Pkern\REPOS\Create-With-Code-Mission-1\Temp\FSTimeGet-28d82e3f856aa3645a7c26586aa064df
-    projectPath: Temp\FSTimeGet-28d82e3f856aa3645a7c26586aa064df
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\FSTimeGet-5cfe4fb812d4ebb4ab2ee41552690d89
-    fullPath: C:\Users\Pkern\REPOS\Create-With-Code-Mission-1\Temp\FSTimeGet-5cfe4fb812d4ebb4ab2ee41552690d89
-    projectPath: Temp\FSTimeGet-5cfe4fb812d4ebb4ab2ee41552690d89
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\FSTimeGet-e568e3b93c018d2458a18ae313be5636
-    fullPath: C:\Users\Pkern\REPOS\Create-With-Code-Mission-1\Temp\FSTimeGet-e568e3b93c018d2458a18ae313be5636
-    projectPath: Temp\FSTimeGet-e568e3b93c018d2458a18ae313be5636
+  - path: Temp\FSTimeGet-e7191009169c57641a315d452d168a6a
+    fullPath: C:\Users\Pkern\REPOS\Create-With-Code-Mission-1\Temp\FSTimeGet-e7191009169c57641a315d452d168a6a
+    projectPath: Temp\FSTimeGet-e7191009169c57641a315d452d168a6a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
